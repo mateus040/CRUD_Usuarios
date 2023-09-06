@@ -1,0 +1,12 @@
+(Projeto feito utilizando Node.js, React.js e MySQL)
+
+=== Comandos API === 
+npm init -y
+
+npm install --global yarn (Gerenciador de dependências JavaScript)
+yarn add express nodemon mysql cors
+
+=== Comandos App ===
+yarn add styled-components react-icons react-toastify
+
+Axios: Irá consumir a api
